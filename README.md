@@ -1,6 +1,6 @@
 # all_reps
 
-portainer 9090
+portainer 9020
     
     ui интерфейс для управления контейнерами
 
